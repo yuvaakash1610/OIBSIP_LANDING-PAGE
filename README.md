@@ -6,15 +6,14 @@ A modern, responsive landing page built with pure HTML and CSS. This project is 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📋 Table of Contents
-- [About](#about)
+- [About]
 - [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Learning Objectives](#learning-objectives)
-- [Customization](#customization)
-- [Screenshots](#screenshots)
-- [License](#license)
+- [Technologies Used]
+- [Getting Started]
+- [Project Structure]
+- [Learning Objectives]
+- [Customization]
+- [Screenshots]
 
 ## 🎯 About
 
